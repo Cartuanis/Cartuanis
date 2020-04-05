@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>Algo más que Mota</title>
-  <link href="https://irazu.cartuanis.com/general_feed.xml" rel="self"/>
-  <link href="https://irazu.cartuanis.com"/>
-  <updated>2020-03-30T00:59:24-06:00</updated>
-  <id>https://irazu.cartuanis.com/</id>
+  <title>Cartuanis</title>
+  <link href="https://podcast.cartuanis.com/general_feed.xml" rel="self"/>
+  <link href="https://podcast.cartuanis.com"/>
+  <updated>2020-04-04T21:44:05-06:00</updated>
+  <id>https://podcast.cartuanis.com/</id>
   <author>
-    <name>Irazu Growers</name>
-    <email>irazugrower@gmail.com</email>
+    <name>Cartuanis</name>
+    <email>Cartuanis506@gmail.com</email>
   </author>
 
   
     <entry>
-      <title>Intro</title>
-      <link href="https://irazu.cartuanis.com/2020/03/30/Intro.html"/>
-      <updated>2020-03-30T00:00:00-06:00</updated>
-      <id>https://irazu.cartuanis.com/2020/03/30/Intro</id>
-      <content type="html">&lt;h2 id=&quot;trailer&quot;&gt;Trailer&lt;/h2&gt;
-
-&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://irazu.cartuanis.com/episodes/intro.mp3&quot;},&quot;coverUrl&quot;:&quot;https://irazu.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Intro&quot;,&quot;subtitle&quot;:&quot;Trailer&quot;,&quot;url&quot;:&quot;https://irazu.cartuanis.com/2020/03/30/Intro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
-&lt;/script&gt;
-
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://irazu.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
-&lt;/script&gt;
-
-&lt;h2 id=&quot;te-presentamos-algo-más-que-mota-el-primer-podcast-acerca-de-la-marihuana-en-costa-rica&quot;&gt;Te presentamos Algo más que Mota el primer podcast acerca de la marihuana en Costa Rica&lt;/h2&gt;
-
-</content>
-      
-        
-          <link rel="enclosure" 
-                type="audio/mpeg" 
-                length="521041" 
-                href="https://irazu.cartuanis.com/episodes/intro.mp3"/>    
-        
-      
-      
-    </entry>
-  
-    <entry>
       <title>Bienvenido a Irazu Growers</title>
-      <link href="https://irazu.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers.html"/>
+      <link href="https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers.html"/>
       <updated>2020-03-21T19:08:45-06:00</updated>
-      <id>https://irazu.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers</id>
-      <content type="html">&lt;p&gt;Pura vida si estas leyendo esto es porque eres parte de Irazu Growers
-Buenas Vibras&lt;/p&gt;
+      <id>https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers</id>
+      <content type="html">&lt;p&gt;Pura vida si estas leyendo esto es porque eres parte de Cartuanis&lt;/p&gt;
 
 </content>
       

@@ -8,82 +8,41 @@
      version="2.0">
 
   <channel>
-    <title>Algo más que Mota</title>
-    <link>https://irazu.cartuanis.com</link>
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://irazu.cartuanis.com/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <title>Cartuanis</title>
+    <link>https://podcast.cartuanis.com</link>
+    <atom:link href="https://podcast.cartuanis.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://podcast.cartuanis.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://podcast.cartuanis.com/episodes.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
     
-    <description>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
+    <description>Compartiendo experiencias desde la montaña
 </description>
-    <lastBuildDate>Mon, 30 Mar 2020 00:59:24 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2020 21:44:05 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
-    <itunes:summary>Cala y sus compas te cuentan todo acerca del Cannabis en Costa Rica y el mundo.
+    <itunes:summary>Compartiendo experiencias desde la montaña
 </itunes:summary>
-    <itunes:author>Irazu Growers</itunes:author>
+    <itunes:author>Cartuanis</itunes:author>
     <itunes:explicit>yes</itunes:explicit>
-    <itunes:image href="https://irazu.cartuanis.com/img/logo-itunes.jpg" />
+    <itunes:image href="https://podcast.cartuanis.com/img/logo-itunes.jpg" />
     <itunes:owner>
-      <itunes:name>Irazu Growers</itunes:name>
-      <itunes:email>irazugrower@gmail.com</itunes:email>
+      <itunes:name>Cartuanis</itunes:name>
+      <itunes:email>Cartuanis506@gmail.com</itunes:email>
     </itunes:owner>
-    <managingEditor>irazugrower@gmail.com (Irazu Growers)</managingEditor>
+    <managingEditor>Cartuanis506@gmail.com (Cartuanis)</managingEditor>
     <copyright>CC BY 4.0</copyright>
     <itunes:subtitle></itunes:subtitle>
     <itunes:keywords></itunes:keywords>
     <image>
-      <title>Algo más que Mota</title>
-      <url>https://irazu.cartuanis.com/img/logo-itunes.jpg</url>
-      <link>https://irazu.cartuanis.com</link>
+      <title>Cartuanis</title>
+      <url>https://podcast.cartuanis.com/img/logo-itunes.jpg</url>
+      <link>https://podcast.cartuanis.com</link>
     </image>
     
     
-    
-      
-        
-        
-          <item>
-            <title>Intro - Trailer</title>
-            <link>https://irazu.cartuanis.com/2020/03/30/Intro.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://irazu.cartuanis.com/players/Intro"/>
-            <comments>https://irazu.cartuanis.com/2020/03/30/Intro.html#disqus_thread</comments>
-            <pubDate>Mon, 30 Mar 2020 00:00:00 -0600</pubDate>
-            
-            <guid isPermaLink="false">https://irazu.cartuanis.com/2020/03/30/Intro.html</guid>
-            <description><![CDATA[<h2 id="trailer">Trailer</h2>
-
-
-
-<h2 id="te-presentamos-algo-más-que-mota-el-primer-podcast-acerca-de-la-marihuana-en-costa-rica">Te presentamos Algo más que Mota el primer podcast acerca de la marihuana en Costa Rica</h2>
-
-]]></description>
-            <content:encoded><![CDATA[<h2 id="trailer">Trailer</h2>
-
-
-
-<h2 id="te-presentamos-algo-más-que-mota-el-primer-podcast-acerca-de-la-marihuana-en-costa-rica">Te presentamos Algo más que Mota el primer podcast acerca de la marihuana en Costa Rica</h2>
-
-]]></content:encoded>
-            
-            <enclosure url="https://irazu.cartuanis.com/episodes/intro.mp3" length="521041" type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Trailer</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Irazu Growers</itunes:author>
-            <itunes:explicit>yes</itunes:explicit>
-            <itunes:duration>0:00:21</itunes:duration>
-            
-            
-            
-            
-          </item>
-        
-      
     
       
     
