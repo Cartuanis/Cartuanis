@@ -4,7 +4,7 @@
   <title>Cartuanis</title>
   <link href="https://podcast.cartuanis.com/general_feed.xml" rel="self"/>
   <link href="https://podcast.cartuanis.com"/>
-  <updated>2020-04-04T22:17:04-06:00</updated>
+  <updated>2020-04-06T15:03:10-06:00</updated>
   <id>https://podcast.cartuanis.com/</id>
   <author>
     <name>Cartuanis</name>
@@ -13,10 +13,38 @@
 
   
     <entry>
-      <title>Bienvenido a Irazu Growers</title>
-      <link href="https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers.html"/>
+      <title>Intro</title>
+      <link href="https://podcast.cartuanis.com/2020/04/06/Intro.html"/>
+      <updated>2020-04-06T00:00:00-06:00</updated>
+      <id>https://podcast.cartuanis.com/2020/04/06/Intro</id>
+      <content type="html">&lt;h2 id=&quot;trailer&quot;&gt;Trailer&lt;/h2&gt;
+
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/intro.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Intro&quot;,&quot;subtitle&quot;:&quot;Trailer&quot;,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/04/06/Intro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;bienvenidos-a-un-podcast-de-montaña&quot;&gt;Bienvenidos a un podcast de montaña&lt;/h2&gt;
+
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="1804226" 
+                href="https://podcast.cartuanis.com/episodes/intro.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Bienvenido a Caruanis</title>
+      <link href="https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Cartuanis.html"/>
       <updated>2020-03-21T19:08:45-06:00</updated>
-      <id>https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers</id>
+      <id>https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Cartuanis</id>
       <content type="html">&lt;p&gt;Pura vida si estas leyendo esto es porque eres parte de Cartuanis&lt;/p&gt;
 
 </content>

@@ -12,12 +12,24 @@
    "url": null
  },
  "items": [
-   {"id": "b82efc8c",
-    "title": "Bienvenido a Irazu Growers",
+   {"id": "0224bae0",
+    "title": "Intro",
+    "summary": "",
+    "content_text": "TrailerBienvenidos a un podcast de montaña",
+    "content_html": "<h2 id=\"trailer\">Trailer</h2><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://podcast.cartuanis.com/episodes/intro.mp3\"},\"coverUrl\":\"https://podcast.cartuanis.com/img/logo-360x360.png\",\"title\":\"Intro\",\"subtitle\":\"Trailer\",\"url\":\"https://podcast.cartuanis.com/2020/04/06/Intro.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"bienvenidos-a-un-podcast-de-montaña\">Bienvenidos a un podcast de montaña</h2>",
+    "url": "https://podcast.cartuanis.com/2020/04/06/Intro.html",
+    "date_published": "2020-04-06T00:00:00-06:00",
+    "date_modified": "2020-04-06T00:00:00-06:00",
+    "author": {
+      "name": "Cartuanis"
+    }
+  },
+   {"id": "82794345",
+    "title": "Bienvenido a Caruanis",
     "summary": "",
     "content_text": "Pura vida si estas leyendo esto es porque eres parte de Cartuanis",
     "content_html": "<p>Pura vida si estas leyendo esto es porque eres parte de Cartuanis</p>",
-    "url": "https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Irazu-Growers.html",
+    "url": "https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Cartuanis.html",
     "date_published": "2020-03-21T19:08:45-06:00",
     "date_modified": "2020-03-21T19:08:45-06:00",
     "author": {
