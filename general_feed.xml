@@ -4,7 +4,7 @@
   <title>Cartuanis</title>
   <link href="https://podcast.cartuanis.com/general_feed.xml" rel="self"/>
   <link href="https://podcast.cartuanis.com"/>
-  <updated>2020-05-23T18:31:30-06:00</updated>
+  <updated>2020-05-23T18:47:16-06:00</updated>
   <id>https://podcast.cartuanis.com/</id>
   <author>
     <name>Cartuanis</name>
@@ -20,7 +20,7 @@
       <content type="html">&lt;h2 id=&quot;volvimos-a-la-montaña&quot;&gt;Volvimos a la Montaña&lt;/h2&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/intro.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Rompimos la Cuarentena&quot;,&quot;subtitle&quot;:&quot;Volvimos a la Montaña&quot;,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/04/06/Intro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/casa.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Rompimos la Cuarentena&quot;,&quot;subtitle&quot;:&quot;Volvimos a la Montaña&quot;,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/04/06/Intro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -34,7 +34,7 @@
           <link rel="enclosure" 
                 type="audio/mpeg" 
                 length="73752403" 
-                href="https://podcast.cartuanis.com/episodes/intro.mp3"/>    
+                href="https://podcast.cartuanis.com/episodes/casa.mp3"/>    
         
       
       
