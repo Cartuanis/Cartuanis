@@ -19,7 +19,7 @@
     
     <description>Compartiendo experiencias desde la montaña
 </description>
-    <lastBuildDate>Mon, 06 Apr 2020 15:03:10 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 18:31:30 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -48,21 +48,21 @@
         
         
           <item>
-            <title>Intro - Trailer</title>
+            <title>Rompimos la Cuarentena - Volvimos a la Montaña</title>
             <link>https://podcast.cartuanis.com/2020/04/06/Intro.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://podcast.cartuanis.com/players/Intro"/>
             <comments>https://podcast.cartuanis.com/2020/04/06/Intro.html#disqus_thread</comments>
             <pubDate>Mon, 06 Apr 2020 00:00:00 -0600</pubDate>
             
             <guid isPermaLink="false">https://podcast.cartuanis.com/2020/04/06/Intro.html</guid>
-            <description><![CDATA[<h2 id="trailer">Trailer</h2>
+            <description><![CDATA[<h2 id="volvimos-a-la-montaña">Volvimos a la Montaña</h2>
 
 
 
 <h2 id="bienvenidos-a-un-podcast-de-montaña">Bienvenidos a un podcast de montaña</h2>
 
 ]]></description>
-            <content:encoded><![CDATA[<h2 id="trailer">Trailer</h2>
+            <content:encoded><![CDATA[<h2 id="volvimos-a-la-montaña">Volvimos a la Montaña</h2>
 
 
 
@@ -70,9 +70,9 @@
 
 ]]></content:encoded>
             
-            <enclosure url="https://podcast.cartuanis.com/episodes/intro.mp3" length="1804226" type="audio/mpeg" />
+            <enclosure url="https://podcast.cartuanis.com/episodes/intro.mp3" length="73752403" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Trailer</itunes:subtitle>
+            <itunes:subtitle>Volvimos a la Montaña</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Cartuanis</itunes:author>
             <itunes:explicit>yes</itunes:explicit>

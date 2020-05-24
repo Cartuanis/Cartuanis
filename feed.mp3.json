@@ -13,10 +13,10 @@
  },
  "items": [
    {"id": "0224bae0",
-    "title": "Intro",
+    "title": "Rompimos la Cuarentena",
     "summary": "",
-    "content_text": "TrailerBienvenidos a un podcast de montaña",
-    "content_html": "<h2 id=\"trailer\">Trailer</h2><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://podcast.cartuanis.com/episodes/intro.mp3\"},\"coverUrl\":\"https://podcast.cartuanis.com/img/logo-360x360.png\",\"title\":\"Intro\",\"subtitle\":\"Trailer\",\"url\":\"https://podcast.cartuanis.com/2020/04/06/Intro.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"bienvenidos-a-un-podcast-de-montaña\">Bienvenidos a un podcast de montaña</h2>",
+    "content_text": "Volvimos a la MontañaBienvenidos a un podcast de montaña",
+    "content_html": "<h2 id=\"volvimos-a-la-montaña\">Volvimos a la Montaña</h2><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://podcast.cartuanis.com/episodes/intro.mp3\"},\"coverUrl\":\"https://podcast.cartuanis.com/img/logo-360x360.png\",\"title\":\"Rompimos la Cuarentena\",\"subtitle\":\"Volvimos a la Montaña\",\"url\":\"https://podcast.cartuanis.com/2020/04/06/Intro.html\",\"description\":null,\"chaptermarks\":null}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"bienvenidos-a-un-podcast-de-montaña\">Bienvenidos a un podcast de montaña</h2>",
     "url": "https://podcast.cartuanis.com/2020/04/06/Intro.html",
     "date_published": "2020-04-06T00:00:00-06:00",
     "date_modified": "2020-04-06T00:00:00-06:00",
