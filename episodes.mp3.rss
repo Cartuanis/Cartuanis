@@ -19,7 +19,7 @@
     
     <description>Compartiendo experiencias desde la montaña
 </description>
-    <lastBuildDate>Fri, 17 Jul 2020 20:04:44 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 20:12:46 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -59,24 +59,18 @@
 
 
 
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
+<h2 id="aventuras-en-ek-volcán-turrialba">Aventuras en ek Volcán turrialba</h2>
 
-<ul>
-  <li>Note</li>
-</ul>
 ]]></description>
             <content:encoded><![CDATA[<h2 id="volcán-turrialba">Volcán turrialba.</h2>
 
 
 
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
+<h2 id="aventuras-en-ek-volcán-turrialba">Aventuras en ek Volcán turrialba</h2>
 
-<ul>
-  <li>Note</li>
-</ul>
 ]]></content:encoded>
             
-            <enclosure url="https://podcast.cartuanis.com/episodes/otro.mp3" length="96127819" type="audio/mpeg" />
+            <enclosure url="https://podcast.cartuanis.com/episodes/otra.mp3" length="96127819" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Volcán turrialba.</itunes:subtitle>
             <itunes:summary></itunes:summary>
