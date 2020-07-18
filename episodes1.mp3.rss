@@ -19,7 +19,7 @@
     
     <description>Compartiendo experiencias desde la montaña
 </description>
-    <lastBuildDate>Fri, 17 Jul 2020 19:56:11 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 20:04:44 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -48,14 +48,14 @@
         
         
           <item>
-            <title>Aventuras extremas, peligrosas y de moda. Volcán turrialba. - A Subtle Subtitle</title>
+            <title>Aventuras extremas, peligrosas y de moda. - Volcán turrialba.</title>
             <link>https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://podcast.cartuanis.com/players/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_"/>
             <comments>https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html#disqus_thread</comments>
             <pubDate>Fri, 17 Jul 2020 00:00:00 -0600</pubDate>
             
             <guid isPermaLink="false">https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html</guid>
-            <description><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
+            <description><![CDATA[<h2 id="volcán-turrialba">Volcán turrialba.</h2>
 
 
 
@@ -65,7 +65,7 @@
   <li>Note</li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
+            <content:encoded><![CDATA[<h2 id="volcán-turrialba">Volcán turrialba.</h2>
 
 
 
@@ -78,7 +78,7 @@
             
             <enclosure url="https://podcast.cartuanis.com/episodes/otro.mp3" length="96127819" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
+            <itunes:subtitle>Volcán turrialba.</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Cartuanis</itunes:author>
             <itunes:explicit>yes</itunes:explicit>
