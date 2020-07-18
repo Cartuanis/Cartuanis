@@ -19,7 +19,7 @@
     
     <description>Compartiendo experiencias desde la montaña
 </description>
-    <lastBuildDate>Fri, 17 Jul 2020 19:42:43 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 19:56:11 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -57,24 +57,9 @@
             <guid isPermaLink="false">https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html</guid>
             <description><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
 
-<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
 
-<table>
-  <tbody>
-    <tr>
-      <td>{{ page</td>
-      <td>web_player_moderator:site }}</td>
-    </tr>
-  </tbody>
-</table>
 
 <h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Note</li>
-</ul>
-
-<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
 
 <ul>
   <li>Note</li>
@@ -82,24 +67,9 @@
 ]]></description>
             <content:encoded><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
 
-<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
 
-<table>
-  <tbody>
-    <tr>
-      <td>{{ page</td>
-      <td>web_player_moderator:site }}</td>
-    </tr>
-  </tbody>
-</table>
 
 <h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Note</li>
-</ul>
-
-<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
 
 <ul>
   <li>Note</li>
