@@ -19,7 +19,7 @@
     
     <description>Compartiendo experiencias desde la montaña
 </description>
-    <lastBuildDate>Sat, 23 May 2020 18:58:59 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2020 19:42:43 -0600</lastBuildDate>
     <language>en-gb</language>
     <generator>Jekyll-Octopod 0.9.14</generator>
 
@@ -43,6 +43,83 @@
     </image>
     
     
+    
+      
+        
+        
+          <item>
+            <title>Aventuras extremas, peligrosas y de moda. Volcán turrialba. - A Subtle Subtitle</title>
+            <link>https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://podcast.cartuanis.com/players/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_"/>
+            <comments>https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html#disqus_thread</comments>
+            <pubDate>Fri, 17 Jul 2020 00:00:00 -0600</pubDate>
+            
+            <guid isPermaLink="false">https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html</guid>
+            <description><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
+
+<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>{{ page</td>
+      <td>web_player_moderator:site }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+
+<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
+
+<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>{{ page</td>
+      <td>web_player_moderator:site }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+
+<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></content:encoded>
+            
+            <enclosure url="https://podcast.cartuanis.com/episodes/otro.mp3" length="96127819" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Cartuanis</itunes:author>
+            <itunes:explicit>yes</itunes:explicit>
+            <itunes:duration>0:01:00</itunes:duration>
+            
+            
+            
+            
+          </item>
+        
+      
     
       
         

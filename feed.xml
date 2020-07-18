@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://podcast.cartuanis.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://podcast.cartuanis.com/" rel="alternate" type="text/html" /><updated>2020-05-23T18:58:59-06:00</updated><id>https://podcast.cartuanis.com/feed.xml</id><title type="html">Cartuanis</title><subtitle>Compartiendo experiencias desde la montaña</subtitle><author><name>Cartuanis</name></author><entry><title type="html">Rompimos la Cuarentena</title><link href="https://podcast.cartuanis.com/2020/05/23/Intro.html" rel="alternate" type="text/html" title="Rompimos la Cuarentena" /><published>2020-05-23T00:00:00-06:00</published><updated>2020-05-23T00:00:00-06:00</updated><id>https://podcast.cartuanis.com/2020/05/23/Intro</id><content type="html" xml:base="https://podcast.cartuanis.com/2020/05/23/Intro.html">&lt;h2 id=&quot;volvimos-a-la-montaña&quot;&gt;Volvimos a la Montaña&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://podcast.cartuanis.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://podcast.cartuanis.com/" rel="alternate" type="text/html" /><updated>2020-07-17T19:42:43-06:00</updated><id>https://podcast.cartuanis.com/feed.xml</id><title type="html">Cartuanis</title><subtitle>Compartiendo experiencias desde la montaña</subtitle><author><name>Cartuanis</name></author><entry><title type="html">Aventuras extremas, peligrosas y de moda. Volcán turrialba.</title><link href="https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html" rel="alternate" type="text/html" title="Aventuras extremas, peligrosas y de moda. Volcán turrialba." /><published>2020-07-17T00:00:00-06:00</published><updated>2020-07-17T00:00:00-06:00</updated><id>https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_</id><content type="html" xml:base="https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html">&lt;h2 id=&quot;a-subtle-subtitle&quot;&gt;A Subtle Subtitle&lt;/h2&gt;
+
+&lt;h2 id=&quot;-pagesubtitle-&quot;&gt;{{ page.subtitle }}&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;{{ page&lt;/td&gt;
+      &lt;td&gt;web_player_moderator:site }}&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;shownotes-and-links&quot;&gt;Shownotes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Note&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;shownotes-and-links-1&quot;&gt;Shownotes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Note&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Cartuanis</name></author><summary type="html">A Subtle Subtitle</summary></entry><entry><title type="html">Rompimos la Cuarentena</title><link href="https://podcast.cartuanis.com/2020/05/23/Intro.html" rel="alternate" type="text/html" title="Rompimos la Cuarentena" /><published>2020-05-23T00:00:00-06:00</published><updated>2020-05-23T00:00:00-06:00</updated><id>https://podcast.cartuanis.com/2020/05/23/Intro</id><content type="html" xml:base="https://podcast.cartuanis.com/2020/05/23/Intro.html">&lt;h2 id=&quot;volvimos-a-la-montaña&quot;&gt;Volvimos a la Montaña&lt;/h2&gt;
 
 &lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/casa.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Rompimos la Cuarentena&quot;,&quot;subtitle&quot;:&quot;Volvimos a la Montaña&quot;,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/05/23/Intro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
