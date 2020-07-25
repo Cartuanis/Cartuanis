@@ -4,7 +4,7 @@
   <title>Cartuanis</title>
   <link href="https://podcast.cartuanis.com/general_feed.xml" rel="self"/>
   <link href="https://podcast.cartuanis.com"/>
-  <updated>2020-07-24T20:48:36-06:00</updated>
+  <updated>2020-07-24T21:16:13-06:00</updated>
   <id>https://podcast.cartuanis.com/</id>
   <author>
     <name>Cartuanis</name>
@@ -20,7 +20,7 @@
       <content type="html">&lt;p&gt;##&lt;/p&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;ogg&quot;:&quot;https://podcast.cartuanis.com/episodes/melan.ogg&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/melan.ogg&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -31,7 +31,7 @@
       
         
           <link rel="enclosure" 
-                type="audio/ogg; codecs=vorbis" 
+                type="audio/mpeg" 
                 length="67971520" 
                 href="https://podcast.cartuanis.com/episodes/melan.ogg"/>    
         
