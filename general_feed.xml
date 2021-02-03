@@ -4,7 +4,7 @@
   <title>Cartuanis</title>
   <link href="https://podcast.cartuanis.com/general_feed.xml" rel="self"/>
   <link href="https://podcast.cartuanis.com"/>
-  <updated>2020-07-24T21:16:13-06:00</updated>
+  <updated>2021-02-02T21:47:48-06:00</updated>
   <id>https://podcast.cartuanis.com/</id>
   <author>
     <name>Cartuanis</name>
@@ -13,13 +13,35 @@
 
   
     <entry>
+      <title>Nutrinature   Una Alimentaci_n Saludable En La Monta_a_</title>
+      <link href="https://podcast.cartuanis.com/2021/02/02/nutrinature-una-alimentaci_n-saludable-en-la-monta_a_.html"/>
+      <updated>2021-02-02T00:00:00-06:00</updated>
+      <id>https://podcast.cartuanis.com/2021/02/02/nutrinature---una-alimentaci_n-saludable-en-la-monta_a_</id>
+      <content type="html">&lt;hr /&gt;
+&lt;p&gt;title: Nutrinature - Una alimentación saludable en la montaña.
+subtitle: A Subtle Subtitle
+datum: Feb 2nd, 2021
+layout: post
+author: Cartuanis
+explicit: ‘yes’
+duration: ‘0:45:00’
+audio:&lt;/p&gt;
+
+&lt;p&gt;mp3: nutri.mp3&lt;/p&gt;
+
+&lt;h2 id=&quot;mantener-un-balance-con-nuestro-cuerpo-es-ideal-para-tener-mejor-calidad-de-vida-y-la-alimentación-es-un-pilar-primordial-por-lo-que-en-este-episodio-la-dr-ana-solano-nos-da-algunos-tips-para-cuidar-nuestra-alimentación-en-la-montaña&quot;&gt;Mantener un balance con nuestro cuerpo es ideal para tener mejor calidad de vida y la alimentación es un pilar primordial por lo que en este episodio la Dr. Ana Solano nos da algunos tips para cuidar nuestra alimentación en la montaña.&lt;/h2&gt;
+
+</content>
+      
+      
+    </entry>
+  
+    <entry>
       <title>Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.</title>
       <link href="https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro.html"/>
       <updated>2020-07-24T00:00:00-06:00</updated>
       <id>https://podcast.cartuanis.com/2020/07/24/Melany Cubero - Artista Cartagines, su Musica, su Arte y Opinion del Cabro mas Cabro</id>
-      <content type="html">&lt;p&gt;##&lt;/p&gt;
-
-&lt;script&gt;
+      <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/melan.ogg&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
