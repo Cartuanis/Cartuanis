@@ -4,7 +4,7 @@
   <title>Cartuanis</title>
   <link href="https://podcast.cartuanis.com/general_feed.xml" rel="self"/>
   <link href="https://podcast.cartuanis.com"/>
-  <updated>2021-02-03T10:54:04-06:00</updated>
+  <updated>2021-02-03T11:22:30-06:00</updated>
   <id>https://podcast.cartuanis.com/</id>
   <author>
     <name>Cartuanis</name>
@@ -14,11 +14,11 @@
   
     <entry>
       <title>Nutrinature - Una alimentación saludable en la montaña.</title>
-      <link href="https://podcast.cartuanis.com/2021/02/02/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a_.html"/>
-      <updated>2021-02-02T00:00:00-06:00</updated>
-      <id>https://podcast.cartuanis.com/2021/02/02/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a_</id>
+      <link href="https://podcast.cartuanis.com/2021/02/03/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a.html"/>
+      <updated>2021-02-03T00:00:00-06:00</updated>
+      <id>https://podcast.cartuanis.com/2021/02/03/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/nutri.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Nutrinature - Una alimentación saludable en la montaña.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2021/02/02/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a_.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/nutri.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Nutrinature - Una alimentación saludable en la montaña.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2021/02/03/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -39,11 +39,11 @@
   
     <entry>
       <title>Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.</title>
-      <link href="https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro_.html"/>
+      <link href="https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro.html"/>
       <updated>2020-07-24T00:00:00-06:00</updated>
-      <id>https://podcast.cartuanis.com/2020/07/24/Melany Cubero - Artista Cartagines, su Musica, su Arte y Opinion del Cabro mas Cabro_</id>
+      <id>https://podcast.cartuanis.com/2020/07/24/Melany Cubero - Artista Cartagines, su Musica, su Arte y Opinion del Cabro mas Cabro</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/melan.ogg&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro_.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/melan.ogg&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
