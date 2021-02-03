@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Cartuanis</title>
+  <link href="https://podcast.cartuanis.com/general_feed.xml" rel="self"/>
+  <link href="https://podcast.cartuanis.com"/>
+  <updated>2020-07-24T21:16:13-06:00</updated>
+  <id>https://podcast.cartuanis.com/</id>
+  <author>
+    <name>Cartuanis</name>
+    <email>Cartuanis506@gmail.com</email>
+  </author>
+
+  
+    <entry>
+      <title>Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.</title>
+      <link href="https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro.html"/>
+      <updated>2020-07-24T00:00:00-06:00</updated>
+      <id>https://podcast.cartuanis.com/2020/07/24/Melany Cubero - Artista Cartagines, su Musica, su Arte y Opinion del Cabro mas Cabro</id>
+      <content type="html">&lt;p&gt;##&lt;/p&gt;
+
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/melan.ogg&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Melany Cubero - Artista Cartagines, su Musica, su Arte y el Cabro mas Macabro.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/24/Melany-Cubero-Artista-Cartagines,-su-Musica,-su-Arte-y-Opinion-del-Cabro-mas-Cabro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;uno-de-nuestros-objetivos-compartir-y-apoyar-al-talento-cartaginés-en-este-segmento-conversamos-con-melany-cubero-una-talentosa-artista-de-oreamuno-esperen-más-de-estos-podcasts-y-si-te-interesa-ser-parte-de-ellos-escríbenos&quot;&gt;Uno de nuestros objetivos; compartir y apoyar al talento cartaginés, en este segmento, conversamos con Melany Cubero, una talentosa artista de Oreamuno. Esperen más de estos podcasts y si te interesa ser parte de ellos, escríbenos.&lt;/h2&gt;
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="67971520" 
+                href="https://podcast.cartuanis.com/episodes/melan.ogg"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Aventuras extremas, peligrosas y de moda.</title>
+      <link href="https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html"/>
+      <updated>2020-07-17T00:00:00-06:00</updated>
+      <id>https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_</id>
+      <content type="html">&lt;h2 id=&quot;volcán-turrialba&quot;&gt;Volcán turrialba.&lt;/h2&gt;
+
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/otra.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Aventuras extremas, peligrosas y de moda.&quot;,&quot;subtitle&quot;:&quot;Volcán turrialba.&quot;,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;aventuras-en-el-volcán-turrialba&quot;&gt;Aventuras en el Volcán turrialba&lt;/h2&gt;
+
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="96127819" 
+                href="https://podcast.cartuanis.com/episodes/otra.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Rompimos la Cuarentena</title>
+      <link href="https://podcast.cartuanis.com/2020/05/23/Intro.html"/>
+      <updated>2020-05-23T00:00:00-06:00</updated>
+      <id>https://podcast.cartuanis.com/2020/05/23/Intro</id>
+      <content type="html">&lt;h2 id=&quot;volvimos-a-la-montaña&quot;&gt;Volvimos a la Montaña&lt;/h2&gt;
+
+&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/casa.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Rompimos la Cuarentena&quot;,&quot;subtitle&quot;:&quot;Volvimos a la Montaña&quot;,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/05/23/Intro.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h2 id=&quot;bienvenidos-a-un-podcast-de-montaña&quot;&gt;Bienvenidos a un podcast de montaña&lt;/h2&gt;
+
+</content>
+      
+        
+          <link rel="enclosure" 
+                type="audio/mpeg" 
+                length="73752403" 
+                href="https://podcast.cartuanis.com/episodes/casa.mp3"/>    
+        
+      
+      
+    </entry>
+  
+    <entry>
+      <title>Bienvenido a Caruanis</title>
+      <link href="https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Cartuanis.html"/>
+      <updated>2020-03-21T19:08:45-06:00</updated>
+      <id>https://podcast.cartuanis.com/bienvenida/2020/03/21/Bienvenido-a-Cartuanis</id>
+      <content type="html">&lt;p&gt;Pura vida si estas leyendo esto es porque eres parte de Cartuanis&lt;/p&gt;
+
+</content>
+      
+      
+    </entry>
+  
+</feed>
