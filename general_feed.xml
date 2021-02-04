@@ -4,7 +4,7 @@
   <title>Cartuanis</title>
   <link href="https://podcast.cartuanis.com/general_feed.xml" rel="self"/>
   <link href="https://podcast.cartuanis.com"/>
-  <updated>2021-02-03T11:22:30-06:00</updated>
+  <updated>2021-02-04T12:36:15-06:00</updated>
   <id>https://podcast.cartuanis.com/</id>
   <author>
     <name>Cartuanis</name>
@@ -14,11 +14,11 @@
   
     <entry>
       <title>Nutrinature - Una alimentación saludable en la montaña.</title>
-      <link href="https://podcast.cartuanis.com/2021/02/03/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a.html"/>
-      <updated>2021-02-03T00:00:00-06:00</updated>
-      <id>https://podcast.cartuanis.com/2021/02/03/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a</id>
+      <link href="https://podcast.cartuanis.com/2021/02/04/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a.html"/>
+      <updated>2021-02-04T00:00:00-06:00</updated>
+      <id>https://podcast.cartuanis.com/2021/02/04/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/nutri.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Nutrinature - Una alimentación saludable en la montaña.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2021/02/03/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/nutri.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Nutrinature - Una alimentación saludable en la montaña.&quot;,&quot;subtitle&quot;:null,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2021/02/04/Nutrinature-una-alimentaci_n-saludable-en-la-monta_a.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
@@ -64,13 +64,13 @@
   
     <entry>
       <title>Aventuras extremas, peligrosas y de moda.</title>
-      <link href="https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html"/>
+      <link href="https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba.html"/>
       <updated>2020-07-17T00:00:00-06:00</updated>
-      <id>https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_</id>
+      <id>https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba</id>
       <content type="html">&lt;h2 id=&quot;volcán-turrialba&quot;&gt;Volcán turrialba.&lt;/h2&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/otra.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Aventuras extremas, peligrosas y de moda.&quot;,&quot;subtitle&quot;:&quot;Volcán turrialba.&quot;,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba_.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://podcast.cartuanis.com/episodes/otra.mp3&quot;},&quot;coverUrl&quot;:&quot;https://podcast.cartuanis.com/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Aventuras extremas, peligrosas y de moda.&quot;,&quot;subtitle&quot;:&quot;Volcán turrialba.&quot;,&quot;url&quot;:&quot;https://podcast.cartuanis.com/2020/07/17/aventuras-extremas_-peligrosas-y-de-moda_-volc_n-turrialba.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://podcast.cartuanis.com/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
